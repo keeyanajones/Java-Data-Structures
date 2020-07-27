@@ -1,6 +1,4 @@
 # Java-Data-Structures
-# Java-Data-Structures
-Java Data Structures
 
 ## what does it do
 A data organization, management, and storage format that enables efficient access and modification. 
